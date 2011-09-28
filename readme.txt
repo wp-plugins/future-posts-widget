@@ -6,8 +6,6 @@ Requires at least: 2.8
 Tested up to: 3.2
 Stable tag: 1.0
 
-Future Posts lists your draft posts with widget. Select number of drafts and add it your dynamic sidebar.
-
 == Description ==
 
 Future Posts plugin lists your draft, pending and scheduled posts in sidebar.
