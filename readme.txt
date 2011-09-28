@@ -20,7 +20,7 @@ Number of posts can be changed.
 
 == Screenshots ==
 
-1. Widget view
+1. Screenshot of widget
 
 == Changelog ==
 
