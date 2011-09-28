@@ -8,7 +8,7 @@ Stable tag: 1.0
 
 == Description ==
 
-Future Posts plugin lists your draft, pending and scheduled posts in sidebar.
+Future Posts plugin lists your draft, pending and scheduled posts in sidebar. 
 
 Number of posts can be changed.
 
